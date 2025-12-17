@@ -1,5 +1,7 @@
-# Trump-Bribery
-Trump taking bribery 2016-2025 (as of 12/16/2025)
+# Trump-Bribes
+Trump taking bribes during presidency 2016-2025 (as of 12/16/2025)
+
+First thing is repealing FCPA (foreign corruption prevention act). What a fucking idiot.
 
 from: <a href="https://www.americanprogress.org/article/confronting-cost-trumps-corruption-american-families/">Confronting the Cost of Trump’s Corruption to American Families</a>
 
