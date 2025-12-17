@@ -43,9 +43,9 @@
 43. https://www.theamericanconservative.com/tillerson-and-mattis-cleaning-up-kushners-middle-east-mess/
 44. https://www.newsweek.com/jared-kushner-qatar-blockade-damning-and-hes-got-go-if-true-democratic-senator-830611
 45. https://www.nbcnews.com/politics/white-house/mueller-team-asking-if-kushner-foreign-business-ties-influenced-trump-n852681
-46. 
-47. 
-48. 
+46. https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html
+47. https://www.ms.now/rachel-maddow/watch/kushner-family-sees-qatar-tied-bailout-us-policy-warms-to-qatar-1236553795927?playlist=associated
+48. https://www.washingtonpost.com/world/national-security/kushners-overseas-contacts-raise-concerns-as-foreign-officials-seek-leverage/2018/02/27/16bbc052-18c3-11e8-942d-16a950029788_story.html?noredirect=on
 49. 
 50. 
 51. 
@@ -220,4 +220,3 @@
 219. 
 220. 
 221. 
-
